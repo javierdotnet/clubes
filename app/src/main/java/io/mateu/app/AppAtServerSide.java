@@ -30,6 +30,10 @@ import java.net.URL;
  */
 public class AppAtServerSide extends BaseServerSideApp implements ServerSideApp {
 
+    static {
+        Helper.loadProperties();
+    }
+
     private static long fileId;
 
     @Override
