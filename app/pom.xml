@@ -44,7 +44,7 @@
 
         <dependency>
             <groupId>io.mateu.ui</groupId>
-            <artifactId>mdd-annotations</artifactId>
+            <artifactId>mdd</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
