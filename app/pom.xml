@@ -97,6 +97,13 @@
             <artifactId>jhades</artifactId>
             <version>1.0.4</version>
         </dependency>
+             
+             
+                     <dependency>
+            <groupId>io.mateu.jpa-utils</groupId>
+            <artifactId>pujoiner-plugin</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 
