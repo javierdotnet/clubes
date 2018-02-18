@@ -120,6 +120,8 @@
                 <configuration>
                     <puname>miapp</puname>
                     <packages>io.mateu.app.modelo</packages>
+                                             <targetdatabase>io.mateu.app.util.MiPostgreSQLPlatform</targetdatabase>
+
                 </configuration>
 
                 <executions>
