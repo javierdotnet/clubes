@@ -119,9 +119,8 @@
 
                 <configuration>
                     <puname>miapp</puname>
-                    <packages>io.mateu.app.modelo</packages>
-                                             <targetdatabase>io.mateu.app.util.MiPostgreSQLPlatform</targetdatabase>
-
+                    <packages>io.mateu.app.modelo,io.mateu.app.util</packages>
+                    <targetdatabase>io.mateu.erp.model.util.MiPostgreSQLPlatform</targetdatabase>
                 </configuration>
 
                 <executions>
